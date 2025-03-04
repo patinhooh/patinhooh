@@ -1,6 +1,4 @@
-### Hello there 👋
-
-#### Blending code, curiosity, and caffeine — breaking things to learn how to fix them 🔧💡
+### Blending code, curiosity, and caffeine — breaking things to learn how to fix them 🔧💡
 
 Computer Science Student at [IPLeiria](https://www.ipleiria.pt)
 
