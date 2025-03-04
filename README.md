@@ -1,8 +1,8 @@
 ### Blending code, curiosity, and caffeine — breaking things to learn how to fix them 🔧💡
 
-Computer Science Student at [IPLeiria](https://www.ipleiria.pt)
+**Computer Science Student** at [IPLeiria](https://www.ipleiria.pt)
 
-- ⚙️ I navigate through: `.python`, `.go`, `.js`, `.c`, `.java`
+- ⚙️ I navigate through: `.python`, `.go`, `.php`, `.js`, `.c`, `.java`
 - 🌍 You'll often find me diving into **projects** to solve day-to-day problems and exploring **Tech Innovation Spaces**
 - 💻 Working on: **Blockchain (Hyperledger)**, **Distributed Systems**, **LLMs**
 - 💬 `ping` me about **music discoveries**, **cars**, **Linux**, **photography**, or **coffee recommendations**
