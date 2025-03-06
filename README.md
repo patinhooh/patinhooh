@@ -2,10 +2,9 @@
 
 **Computer Science Student** at [IPLeiria](https://www.ipleiria.pt)
 
-- ⚙️ I navigate through: `.python`, `.go`, `.php`, `.js`, `.c`, `.java`
+- ⚙️ I navigate through: `.python`, `.go`, `.php`, `.js`, `.c`, `.java` and more
 - 🌍 You'll often find me diving into **projects** to solve day-to-day problems and exploring **Tech Innovation Spaces**
-- 💻 Working on: **Blockchain (Hyperledger)**, **Distributed Systems**, **LLMs**
+- 💻 Working on: LLM Integration Layers with Hyperledger
 - 💬 `ping` me about **music discoveries**, **cars**, **Linux**, **photography**, or **coffee recommendations**
-- 🎯 My goals: Explore the vast world of **Computer Science**, grow my expertise, and share my knowledge in **Software Development**
 
-🚀 Always learning, exploring, and enjoying the little things in life!
+🦆 Always learning, exploring, and enjoying the little things in life!
