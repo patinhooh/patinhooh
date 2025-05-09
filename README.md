@@ -1,6 +1,6 @@
 ### Blending code, curiosity, and caffeine — breaking things to learn how to fix them 🔧💡
 
-**Computer Engineering Student** at [IPLeiria](https://www.ipleiria.pt)
+**Computer Engineering Student** and  ***Junior Researcher** at [IPLeiria](https://www.ipleiria.pt)
 
 - ⚙️ I navigate through: `.python`, `.go`, `.php`, `.js`, `.c`, `.java` and more
 - 🌍 You'll often find me diving into **projects** to solve day-to-day problems
