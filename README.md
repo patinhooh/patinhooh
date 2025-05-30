@@ -2,7 +2,7 @@
 
 **Computer Engineering Student** and  **Junior Researcher** at [IPLeiria](https://www.ipleiria.pt)
 
-- ⚙️ I navigate through: `.python`, `.go`, `.php`, `.js`, `.c`, `.java` and more
+- ⚙️ I navigate through: `.py`, `.go`, `.php`, `.js`, `.c`, `.java` and more
 - 🌍 You'll often find me diving into **projects** to solve day-to-day problems
 - 💻 Working on: LLM Integration Layers with Hyperledger
 - 💬 `ping` me about **music discoveries**, **cars**, **Linux**, **photography**, or **coffee recommendations**
